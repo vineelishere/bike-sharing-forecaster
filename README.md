@@ -81,7 +81,7 @@ Returns `{"timestamp": "...", "predicted_rentals": ...}`.
 Requires Python 3.10+ and PostgreSQL.
 
 ```bash
-git clone https://github.com/Vineeth-4/bike-demand-forecaster.git
+git clone https://github.com/vineelishere/bike-sharing-forecaster.git
 cd bike-demand-forecaster
 python -m venv .venv
 .venv\Scripts\activate          # Mac/Linux: source .venv/bin/activate
